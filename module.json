@@ -1,0 +1,31 @@
+{
+  "id": "stories-of-the-wordmancer-5e",
+  "title": "Stories of the Wordmancer 5e",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "download": "https://github.com/Lightbearer-Fantasy/Stories-of-the-Wordmancer-5e/releases/latest/download/module.zip",
+  "manifest": "https://github.com.com/Lightbearer-Fantasy/Stories-of-the-Wordmancer-5e/releases/latest/download/module.json", 
+  "authors": [
+    {
+      "name": "Lightbearer",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "stories-of-the-wordmancer-5e",
+      "label": "Stories of the Wordmancer 5e",
+      "path": "packs/stories-of-the-wordmancer-5e",
+      "type": "Adventure",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+    }
+  ]
+}

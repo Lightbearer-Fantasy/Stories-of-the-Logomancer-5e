@@ -1,1 +1,1 @@
-# Stories of the Wordmancer 5e
+# Stories of the Logomancer 5e
